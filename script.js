@@ -8,6 +8,7 @@ function compute()
       if(principal=='undefined' || principal<1)
      {
          alert('The Principal value must be Positive!');
+         document.getElementById("principal").focus();
          return;
      }
     
