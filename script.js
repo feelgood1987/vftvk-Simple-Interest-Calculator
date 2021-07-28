@@ -5,7 +5,7 @@ function compute()
      rate=document.getElementById("rate").value,
      years=document.getElementById("years").value;
     var interest=principal*years*rate/100;
-      if(principal==undefined || principal<1)
+      if(principal=='undefined' || principal<1)
      {
          alert('The Principal value must be Positive!');
          return;
