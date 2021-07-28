@@ -15,5 +15,13 @@ h1{
     border-radius:25px;
     align:center;
 }
+.infolable{
+    widht:100px;
+    text-align:left;
+}
+.highlight{
+    background-color:yellow; 
+    font-weight:bold;
+}
 
 
