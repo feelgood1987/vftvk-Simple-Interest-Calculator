@@ -10,13 +10,13 @@ h1{
 .maindiv{
     background-color:white;
     color:black;
-    width:300px;
+    width:500px;
     padding:20px;
     border-radius:25px;
     align:center;
 }
 .infolable{
-    widht:100px;
+    width:100px;
     text-align:left;
 }
 .highlight{
