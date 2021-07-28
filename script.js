@@ -1,7 +1,4 @@
 
-document.getElementById("rate").onchange(function(){
-    updateRate();
-});
 function compute()
 {
     var principal = document.getElementById("principal").value,
